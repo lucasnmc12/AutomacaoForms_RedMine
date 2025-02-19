@@ -18,7 +18,7 @@ function enviarIdeiasParaRedmine() {
 
   // Configurações do Redmine
   var REDMINE_URL = "https://redmine.multimarcasconsorcios.com.br/projects/teste-api"; 
-  var API_KEY = "b9c2188943a3972f233cbedeaa95f2287ad6e87d"; 
+  var API_KEY = "API KEY"; 
   var PROJECT_ID = 22; 
 
   // Índices das colunas na planilha 
